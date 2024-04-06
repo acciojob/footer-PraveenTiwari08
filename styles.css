@@ -41,6 +41,10 @@ footer {
   margin-right: 10px;
 }
 
+.media-icons{
+	display:flex;
+}
+
 .link-boxes {
   display: flex;
   justify-content: space-between;
